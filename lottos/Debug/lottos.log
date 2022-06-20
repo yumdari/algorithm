@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\KCCI28\source\repos\lottos\main.c(17,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\KCCI28\source\repos\lottos\main.c(22,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  lottos.vcxproj -> C:\Users\KCCI28\source\repos\lottos\Debug\lottos.exe
